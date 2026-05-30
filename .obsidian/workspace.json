@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기초컴퓨터공학/2026-05-30.md",
+                "file": "기초컴퓨터공학/과제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-30"
+              "title": "과제"
             }
           },
           {
@@ -246,11 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fd38529333f9119",
+  "active": "8219e7913db90472",
   "lastOpenFiles": [
+    "기초컴퓨터공학/2026-05-30.md",
+    "기초컴퓨터공학/과제.md",
     "obsidien_repository",
     "메모/인터넷 계층.md",
-    "기초컴퓨터공학/2026-05-30.md",
     "메모/프레임.md",
     "메모/{{V}}.md",
     "템플릿/기본 템플릿.md",
