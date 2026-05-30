@@ -5,7 +5,7 @@
       "name": "빠른 메모",
       "type": "Template",
       "command": false,
-      "templatePath": "템플릿/기본 템플릿.md",
+      "templatePath": "템플릿/메모 템플릿.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
